@@ -23,4 +23,4 @@ if __name__ == "__main__":
             print("\nGoodbye! 👋")
             break
         response = get_ai_response(user_input)
-        print("AI:", response)
+        print("Lena:", response)
